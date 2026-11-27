@@ -46,9 +46,9 @@ function App() {
 
       <footer className="footer">
         <p>
-          Developed by <strong>Rajat Pancha</strong> | SID: 115190
+          Developed by <strong>Rhythm Dhital</strong> | SID: 115190
         </p>
-        <p>© 2026 Rajat Pancha. All rights reserved.</p>
+        <p>© 2026 Rhythm Dhital. All rights reserved.</p>
       </footer>
     </div>
   );
