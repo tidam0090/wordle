@@ -1,4 +1,3 @@
-//Rajat Pancha//
 
 function Tile({ letter, status }) {
   return (

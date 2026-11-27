@@ -1,4 +1,3 @@
-//Rajat Pancha//
 
 
 function GameOverModal({ gameStatus, solutionWord, onRestart }) {

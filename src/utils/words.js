@@ -1,4 +1,3 @@
-//Rajat Pancha//
 
 import englishWords from "an-array-of-english-words";
 

@@ -1,4 +1,3 @@
-//RajatPanchha//
 
 import Row from "./Row";
 

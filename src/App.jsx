@@ -1,4 +1,3 @@
-//Rajat Pancha//
 
 import Board from "./components/Board";
 import Keyboard from "./components/Keyboard";

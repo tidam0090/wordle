@@ -1,4 +1,3 @@
-//Rajat Pancha//
 
 import Tile from "./Tile";
 

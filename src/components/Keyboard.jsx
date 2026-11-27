@@ -1,4 +1,3 @@
-//Rajat Pancha//
 
 const keys = [
   "QWERTYUIOP".split(""),
