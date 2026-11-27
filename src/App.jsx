@@ -46,7 +46,7 @@ function App() {
 
       <footer className="footer">
         <p>
-          Developed by <strong>Rhythm Dhital</strong> | SID: 115190
+          Developed by <strong>Rhythm Dhital</strong> | SID: 115187
         </p>
         <p>© 2026 Rhythm Dhital. All rights reserved.</p>
       </footer>
